@@ -42,8 +42,8 @@
 
 | 项目 | 关系 |
 |------|------|
-| [weaver-evolve](https://github.com/2021291696/weaver-evolve) | 上游 — 全局整理时调用我 |
-| [memory-keeper](https://github.com/2021291696/memory-keeper) | 兄弟 — 文件归位 vs 记忆归位 |
+| [weaver-evolve](https://github.com/solplum/weaver-evolve) | 上游 — 全局整理时调用我 |
+| [memory-keeper](https://github.com/solplum/memory-keeper) | 兄弟 — 文件归位 vs 记忆归位 |
 
 ## License
 
